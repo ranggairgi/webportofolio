@@ -599,6 +599,12 @@ footer {
     z-index: 1;
 }
 
+.badge {
+    font-size: 12px;
+    padding: 5px 10px;
+}
+
+
 
 .certificates-container {
     position: relative;
